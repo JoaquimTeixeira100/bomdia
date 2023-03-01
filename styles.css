@@ -1,0 +1,15 @@
+body {
+    
+    background-image: url("1.gif");
+    background-size: 1400px;
+    
+}
+
+h1 {
+    
+    color: white; 
+    text-align: center;
+    margin-top:200px;
+    font-size: 190px;
+    font-family: 'Lobster', cursive;
+}
